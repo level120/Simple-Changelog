@@ -1,0 +1,2 @@
+{{ with .Get "type" }}<span class="label text-light text-capitalize tag-{{ . }}">&nbsp;{{ . }}&nbsp;</span>{{ end }}
+{{ with .Get "desc" }}{{ . }}{{ end }}

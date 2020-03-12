@@ -1,0 +1,11 @@
+baseURL = "http://localhost"
+languageCode = "ko-kr"
+title = "Hugo Changelog Template"
+description = "Release Notes by Changelog"
+theme = "hugo-changelog-theme"
+min_version = "0.60"
+
+paginate = 10
+
+[params]
+    SubTitle = "Release Notes by Changelog"
