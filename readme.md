@@ -7,7 +7,7 @@ I will be provide a generate tool for using this repo.
 ### Demo
 
 ```sh
-$ git clone https://github.com/level120/Simple-Changelog.git --recursive
+$ git clone https://github.com/level120/Simple-Changelog.git
 ```
 
 ```sh
