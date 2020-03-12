@@ -24,4 +24,4 @@ You can use the hugo command like baseurl.
 
 ### Sample image
 
-![](https://github.com/level120/Simple-Changelog/doc/images/sample.png)
+![](https://raw.githubusercontent.com/level120/Simple-Changelog/master/doc/images/sample.png)
